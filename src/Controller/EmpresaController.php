@@ -33,7 +33,7 @@ class EmpresaController extends AbstractController
         $empresaRepository->add($empresa, true);
 
         return $this->json([
-            'message' => 'Empresa criara com Sucesso!'
+            'message' => 'Empresa criada com Sucesso!'
         ], 200);
     }
     #[Route('/empresa/{id}', name: 'empresa_Update', methods:['PUT'])]
