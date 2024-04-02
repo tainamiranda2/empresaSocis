@@ -3,7 +3,7 @@ Aqui está o README.md atualizado com os endpoints dos sócios:
 ```markdown
 # API Symfony com Doctrine, Docker e PostgreSQL
 
-Esta é uma API construída com Symfony, Doctrine, Docker e PostgreSQL para gerenciar informações de empresas e sócios.
+Esta é uma API construída com Symfony, Doctrine, Docker, serializer e PostgreSQL para gerenciar informações de empresas e sócios.
 
 ## Comandos
 
